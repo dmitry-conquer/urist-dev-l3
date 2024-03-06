@@ -1,5 +1,5 @@
 import "./modules/sliders.js";
-import fslightbox from "fslightbox";
+import "./modules/playVideo.js";
 import AOS from "aos";
 function app() {
   AOS.init({
